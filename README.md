@@ -1,5 +1,3 @@
-# programmers
-
 **Readme 실습**
 
 1. 순서가 있는 목록
